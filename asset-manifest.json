@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smart-task-manager/static/css/main.4582b750.css",
+    "main.js": "/smart-task-manager/static/js/main.ce05db2e.js",
+    "static/js/453.174c4b85.chunk.js": "/smart-task-manager/static/js/453.174c4b85.chunk.js",
+    "index.html": "/smart-task-manager/index.html",
+    "main.4582b750.css.map": "/smart-task-manager/static/css/main.4582b750.css.map",
+    "main.ce05db2e.js.map": "/smart-task-manager/static/js/main.ce05db2e.js.map",
+    "453.174c4b85.chunk.js.map": "/smart-task-manager/static/js/453.174c4b85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4582b750.css",
+    "static/js/main.ce05db2e.js"
+  ]
+}
