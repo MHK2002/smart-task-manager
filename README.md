@@ -22,3 +22,6 @@ A modern task management web app built with React.js featuring dark mode, animat
 ```bash
 npm install
 npm start
+```
+## Online Demo
+https://mhk2002.github.io/smart-task-manager/
